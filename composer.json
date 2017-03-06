@@ -1,0 +1,38 @@
+{
+  "name": "cawolf/rocha-thatte-serial",
+  "description": "Single threaded implementation of Rocha-Thatte algorithm",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "keywords": [
+    "graph",
+    "analysis",
+    "cycle",
+    "detection",
+    "rocha",
+    "thatte",
+    "algorithm"
+  ],
+  "authors": [
+    {
+      "name": "Christian Alexander Wolf",
+      "email": "mail@cawolf.de"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Cawolf\\RochaThatte\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6",
+    "clue/graph": "~0.8"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "^3.2",
+    "ciaranmcnulty/phpspec-typehintedmethods": "^2.0"
+  },
+  "scripts": {
+    "test": "vendor/bin/phpspec run"
+  }
+}

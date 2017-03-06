@@ -1,0 +1,7 @@
+extensions:
+  Cjm\PhpSpec\Extension\TypeHintedMethodsExtension: ~
+suites:
+    cawolf_rocha_thatte:
+        namespace: Cawolf\RochaThatte
+        psr4_prefix: Cawolf\RochaThatte
+formatter.name: pretty

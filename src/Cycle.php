@@ -49,7 +49,7 @@ class Cycle
                 $this->sendToNeighbors([], $vertex);
             }
 
-            while ($this->activeVertices) {
+            while (!empty($this->activeVertices)) {
                 $this->superStep();
             }
         }

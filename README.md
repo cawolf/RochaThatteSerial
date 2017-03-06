@@ -2,6 +2,7 @@
 Implementation of the Rocha-Thatte algorithm in a single thread.
 
 [![Build Status](https://travis-ci.org/cawolf/RochaThatteSerial.svg?branch=master)](https://travis-ci.org/cawolf/RochaThatteSerial)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/cawolf/RochaThatteSerial/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/cawolf/RochaThatteSerial/?branch=master)
 [![Packagist](https://img.shields.io/packagist/v/cawolf/rocha-thatte-serial.svg?maxAge=2592000)](https://packagist.org/packages/cawolf/rocha-thatte-serial)
 [![Packagist](https://img.shields.io/packagist/l/cawolf/rocha-thatte-serial.svg?maxAge=2592000)](https://packagist.org/packages/cawolf/rocha-thatte-serial)
 

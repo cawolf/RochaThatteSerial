@@ -29,7 +29,7 @@
     "clue/graph": "~0.8"
   },
   "require-dev": {
-    "phpspec/phpspec": "^3.2",
+    "phpspec/phpspec": "7.1.0",
     "ciaranmcnulty/phpspec-typehintedmethods": "^2.0"
   },
   "scripts": {

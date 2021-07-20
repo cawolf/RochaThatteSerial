@@ -29,8 +29,8 @@
     "clue/graph": "~0.8"
   },
   "require-dev": {
-    "phpspec/phpspec": "^3.2",
-    "ciaranmcnulty/phpspec-typehintedmethods": "^2.0"
+    "phpspec/phpspec": "3.4.3",
+    "ciaranmcnulty/phpspec-typehintedmethods": "2.0.0"
   },
   "scripts": {
     "test": "vendor/bin/phpspec run"

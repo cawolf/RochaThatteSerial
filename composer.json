@@ -30,7 +30,7 @@
   },
   "require-dev": {
     "phpspec/phpspec": "^3.2",
-    "ciaranmcnulty/phpspec-typehintedmethods": "^2.0"
+    "ciaranmcnulty/phpspec-typehintedmethods": "4.0.0"
   },
   "scripts": {
     "test": "vendor/bin/phpspec run"

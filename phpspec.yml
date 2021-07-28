@@ -1,5 +1,3 @@
-extensions:
-  Cjm\PhpSpec\Extension\TypeHintedMethodsExtension: ~
 suites:
     cawolf_rocha_thatte:
         namespace: Cawolf\RochaThatte

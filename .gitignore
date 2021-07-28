@@ -1,3 +1,4 @@
+.php-version
 composer.lock
 composer.phar
 /vendor/

@@ -26,11 +26,10 @@
   },
   "require": {
     "php": ">=5.6",
-    "clue/graph": "~0.8"
+    "clue/graph": "~0.9"
   },
   "require-dev": {
-    "phpspec/phpspec": "^3.2",
-    "ciaranmcnulty/phpspec-typehintedmethods": "^2.0"
+    "phpspec/phpspec": "^7.1"
   },
   "scripts": {
     "test": "vendor/bin/phpspec run"
